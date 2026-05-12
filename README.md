@@ -62,37 +62,6 @@ Bunlardan bazıları:
 - Dağılım grafikleri
 - İstatistiksel karşılaştırma grafikleri
 
----
-
-# 🚀 Projeyi Çalıştırma
-
-Repository’yi klonlayın:
-
-```bash
-git clone https://github.com/husnaOzdemir/Adult-Income-Statistical-Analysis.git
-```
-
-Gerekli kütüphaneleri yükleyin:
-
-```bash
-pip install -r requirements.txt
-```
-
-Projeyi çalıştırın:
-
-```bash
-py src/data_analysis.py
-```
-
----
-
-# 👩‍💻 Geliştirici
-
-**Hüsna Özdemir**
-
-Bilgisayar mühendisliği öğrencisi olarak veri analizi, yazılım geliştirme ve veri odaklı projeler üzerine çalışmalar yapmaktayım.
-
----
 
 # ⭐ Not
 
